@@ -19,5 +19,7 @@ Book Search Application using AJAX request by javascript and jQuery.
 4. To run the application for development, run npm run development.
 5. Open localhost:3001 in the browser.
 
+## How does this application looks:
 
+![](book.gif)
 
